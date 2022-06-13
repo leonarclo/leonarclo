@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Olá, Leonardo Lima aqui. 👋
+#### _Estudante de Análise e Desenvolvimento de Sistemas com grande interesse em desenvolvimento frontend._
 <!--
 **leonarclo/leonarclo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
