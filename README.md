@@ -1,7 +1,7 @@
-<img src="/assets/pixel-computer.gif" align="right" width="150px" margin-left="10px">
-
 ## Hi, Leonardo Lima here| 👋
 #### _Systems Analysis and Development student and starting in the world of programming with frontend development._
+
+<img src="/assets/pixel-computer.gif" align="right" height="300px" width="300px" padding="20px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonarclo&color=blue" alt="Profile views" /> </p>
 
