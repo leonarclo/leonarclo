@@ -13,7 +13,7 @@
 - 📍 From Manaus-AM living in Curitiba-PR
 - 🌱 Currently studying frontend development with ReactJS
 - 📫 Contact: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lima-633067142/)](https://www.linkedin.com/in/leonardo-lima-633067142/) ou [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardostlima@gmail.com)](mailto:leonardostlima@gmail.com)
-- ⚡ Hobbies beyond technology: coffees, biking, videogames, pixelart, 2D animation and manga
+- ⚡ Hobbies beyond technology: coffees, biking, videogames, <br> pixelart, 2D animation and manga
 
 #### 🚀 Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
