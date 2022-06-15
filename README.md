@@ -1,4 +1,4 @@
-<img src="/assets/pixel-computer.gif" align="right" min-width="100px" max-width="300px" width="200px">
+<img src="/assets/pixel-computer.gif" align="right" width="150px" margin-left="10px">
 
 ## Hi, Leonardo Lima here| 👋
 #### _Systems Analysis and Development student and starting in the world of programming with frontend development._
