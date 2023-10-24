@@ -3,16 +3,16 @@
 
 <img src="/assets/pixel-computer-unscreen.gif" align="right" height="300px" width="300px" padding="20px">
 
-Sobre mim:
-📍 Natural de Manaus-AM, atualmente residindo em Curitiba-PR.
-🌱 Estagiário em desenvolvimento web, focado em sites e landing pages, utilizando principalmente HTML, CSS, Javascript e PHP.
-💻 Possuo conhecimento em desenvolvimento web com em React.js|Next.Js e Node.js com Typescript.
-📚 Atualmente estudando desenvolvimento back-end com Java|Spring e um pouco de mobile com Flutter.
+### Sobre mim:
+📍 Natural de Manaus-AM, atualmente residindo em Curitiba-PR. <br/>
+🌱 Estagiário em desenvolvimento web, focado em sites e landing pages, utilizando principalmente HTML, CSS, Javascript e PHP.<br/>
+💻 Possuo conhecimento em desenvolvimento web com em React.js|Next.Js e Node.js com Typescript.<br/>
+📚 Atualmente estudando desenvolvimento back-end com Java|Spring e um pouco de mobile com Flutter.<br/>
 
 📫 Contatos: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lima-633067142/)](https://www.linkedin.com/in/leonardo-lima-633067142/) ou [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardostlima@gmail.com)](mailto:leonardostlima@gmail.com)
 
 
-#### 🚀 Principais Tecnologias:
+### 🚀 Principais Tecnologias:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
