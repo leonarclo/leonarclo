@@ -5,9 +5,8 @@
 
 ### Sobre mim:
 📍 Natural de Manaus-AM, atualmente residindo em Curitiba-PR. <br/>
-🌱 Estagiário em desenvolvimento web, utilizando principalmente HTML, CSS, Javascript e PHP.<br/>
-💻 Possuo também conhecimento em desenvolvimento web com React.js e Node.js utilizando Typescript.<br/>
-📚 Atualmente estudando desenvolvimento back-end com Java|Spring e mobile com Flutter.<br/>
+🌱 Desenvolvedor Front-end e Mobile, atualmente trabalhando com React Native.<br/>
+💻 Possuo também conhecimentos em desenvolvimento do lado do servidor, utlizando Java/Spring Boot, PHP e Node.js.<br/>
 
 📫 Contatos: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-lima-633067142/)](https://www.linkedin.com/in/leonardo-lima-633067142/) ou [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leonardostlima@gmail.com)](mailto:leonardostlima@gmail.com)
 
@@ -19,6 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)&nbsp;&nbsp;
